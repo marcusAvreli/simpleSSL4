@@ -1,2 +1,2 @@
 # simpleSSL4
-https://github.com/tengia/oauth-2
+inspired by https://github.com/tengia/oauth-2
